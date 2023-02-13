@@ -13,6 +13,9 @@
 /build
 /storybook-static
 
+#Varialbes de entorno
+.env
+
 # misc
 .DS_Store
 .env.local
