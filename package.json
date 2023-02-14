@@ -7,7 +7,7 @@
   "main": "dist/index.js",
   "homepage": "",
   "repository": {
-    "url": "https://github.com/osctechh/sb-components",
+    "url": "https://github.com/osctechh/sb-components/",
     "type": "git"
   },
   "peerDependencies": {
